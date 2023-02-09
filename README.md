@@ -8,7 +8,13 @@
  
  
  
-[<img src="https://rs.school/images/rs_school.svg" width="100">](https://rs.school/index.html)  Certified
+[<img src="https://rs.school/images/rs_school.svg" width="120">](https://rs.school/index.html)  Front-end Certified
+
+
+[<img src="https://user-images.githubusercontent.com/99475472/217828159-34f5c637-ac5d-417f-a989-87c631dbf53a.png" width="60">](https://www.efset.org/ef-set-50/) English C2 Proficient
+
+
+
 
 -----------------
 
