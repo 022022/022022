@@ -30,6 +30,8 @@
 
 * [React Dice Game](https://022022.github.io/React-Dice-Game/) / Dice Game (React,  Webpack (no CRA), Hooks) [Repo](https://github.com/022022/React-Dice-Game)
 
+* [StarWars Characters React App](https://character-cards-five.vercel.app/) / Form and Cards App (React CRA, Class Components, CSS Modules) [Repo](https://github.com/022022/character-cards)
+
 * [Online Shop Page](https://022022.github.io/Online-Store/) / Products, Filters and Cart (Vanilla JS + TS, Webpack, ESLint) [Repo](https://github.com/022022/Online-Store)
 
 * [Animal Shelter Landing Page](https://022022.github.io/Shelter/pages/main/index.html) / Landing Page (Vanilla JS + TS, SCSS) [Repo](https://github.com/022022/Shelter)
