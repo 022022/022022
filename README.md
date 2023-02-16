@@ -8,10 +8,7 @@
  
  
  
-[<img src="https://rs.school/images/rs_school.svg" width="120">](https://rs.school/index.html)  Front-end Certified
-
-
-[<img src="https://user-images.githubusercontent.com/99475472/217828159-34f5c637-ac5d-417f-a989-87c631dbf53a.png" width="60">](https://www.efset.org/ef-set-50/) English C2 Proficient
+[<img src="https://rs.school/images/rs_school.svg" width="120">](https://rs.school/index.html)  Front-end Certified &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://user-images.githubusercontent.com/99475472/217828159-34f5c637-ac5d-417f-a989-87c631dbf53a.png" width="60">](https://www.efset.org/ef-set-50/) English C2 Proficient
 
 
 
@@ -21,3 +18,23 @@
  
  ### Projects
  
+* [Search and store exersices]() /  (React CRA, TypeScript, Redux, Tailwind DaisyUI) [Repo](https://github.com/022022/rapid-api-app)
+ 
+* [Accessible layout](https://022022.github.io/accessible-app/) / WCAG compliant 2.1 Level AA Landing page (HTML+CSS+Vanilla JS) [Repo](https://github.com/022022/accessible-app)
+
+* [App for Learning English](https://github.com/AnastasiaLL/rslang/tree/develop) / Team Task for RSSchool JS Course (Vanilla JavaScript+Typescript)
+
+* [NG-PMA](https://ng-pma.netlify.app/welcome) / Team Task for RSSchool Angular Course (Angular, NG-Zorro) [Repo](https://github.com/ThorsAngerVaNeT/project-management-app)
+
+* [Node.js Console File Manager](https://github.com/022022/nodejs-file-manager) / CLI file manager (copy, move, delete, rename files, hash calculations, compress files, etc)
+
+* [React Dice Game](https://022022.github.io/React-Dice-Game/) / Dice Game (React,  Webpack (no CRA), Hooks) [Repo](https://github.com/022022/React-Dice-Game)
+
+* [Online Shop Page](https://022022.github.io/Online-Store/) / Products, Filters and Cart (Vanilla JS + TS, Webpack, ESLint) [Repo](https://github.com/022022/Online-Store)
+
+* [Animal Shelter Landing Page](https://022022.github.io/Shelter/pages/main/index.html) / Landing Page (Vanilla JS + TS, SCSS) [Repo](https://github.com/022022/Shelter)
+
+* [CSS Meme Slider](https://022022.github.io/cssMemSlider/cssMemSlider/index.html) / Pure HTML+CSS sliding functionality (no JS) [Repo](https://github.com/022022/cssMemSlider/)
+
+
+
