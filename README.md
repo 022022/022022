@@ -38,5 +38,7 @@
 
 * [CSS Meme Slider](https://022022.github.io/cssMemSlider/cssMemSlider/index.html) / Pure HTML+CSS sliding functionality (no JS) [Repo](https://github.com/022022/cssMemSlider/)
 
+* [Virtual Keyboard](https://022022.github.io/virtual-keyboard/) / Emulates a standard keyboard (Vanilla JS) [Repo](https://github.com/022022/virtual-keyboard/tree/dev)
+
 
 
