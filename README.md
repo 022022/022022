@@ -16,7 +16,7 @@
  ### React
  
  
-* [Search Workout Exercises](https://awesomesportsapp.netlify.app/) /  (React CRA, TypeScript, Redux, Tailwind daisyUI, RTL) [Repo](https://github.com/022022/rapid-api-app)
+* [Search Workout Exercises](https://awesomesportsapp.netlify.app/) /  (React CRA, TypeScript, Redux, Axios, Tailwind daisyUI, RTL) [Repo](https://github.com/022022/rapid-api-app)
 
 * [React Dice Game](https://022022.github.io/React-Dice-Game/) / Dice Game (React,  Webpack (no CRA), Hooks) [Repo](https://github.com/022022/React-Dice-Game)
 
