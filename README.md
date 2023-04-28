@@ -33,11 +33,11 @@
 * [Node.js Console File Manager](https://github.com/022022/nodejs-file-manager) / CLI file manager (copy, move, delete, rename files, hash calculations, compress files, etc.)
 
 
- ### JS + TS
+ ### JavaScript & Typescript
 
-* [App for Learning English](https://github.com/AnastasiaLL/rslang/tree/develop) / Team Task for RS School JS Course (Vanilla JavaScript+Typescript)
+* [App for Learning English](https://github.com/AnastasiaLL/rslang/tree/develop) / Team Task for RS School JS Course (Vanilla JavaScript+Typescript) [Demo](https://www.youtube.com/watch?v=eNPyBiJDbRM)
 
-* [Online Shop Page](https://022022.github.io/Online-Store/) / Products, Filters and Cart (Vanilla JS + TS, Webpack, ESLint) [Repo](https://github.com/022022/Online-Store)
+* [Online Shop Page](https://022022.github.io/Online-Store/) / Products, Filters and Cart (Vanilla JavaScript+Typescript, Webpack, ESLint) [Repo](https://github.com/022022/Online-Store)
 
 
  ### Accessibility
