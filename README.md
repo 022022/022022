@@ -8,19 +8,21 @@
  
  
  
-[<img src="https://rs.school/images/rs_school.svg" width="120">](https://rs.school/js/)  JS/Front-end Certified &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://user-images.githubusercontent.com/99475472/217828159-34f5c637-ac5d-417f-a989-87c631dbf53a.png" width="60">](https://www.efset.org/ef-set-50/) English C2 Proficient &nbsp; &nbsp; &nbsp; &nbsp;[<img src="https://user-images.githubusercontent.com/99475472/232998461-fd9342ae-ba60-4a77-b9ed-041d6cc8d86e.png" width="130">](https://yandex.ru/yaintern/algorithm-training)
+[<img src="https://rs.school/images/rs_school.svg" width="120">](https://rs.school/js/)  JS/Front-end Certified &nbsp; &nbsp; &nbsp; &nbsp; [<img src="https://user-images.githubusercontent.com/99475472/217828159-34f5c637-ac5d-417f-a989-87c631dbf53a.png" width="60">](https://www.efset.org/ef-set-50/) English C2 Proficient &nbsp; &nbsp; &nbsp; &nbsp;[<img src="https://user-images.githubusercontent.com/99475472/232998461-fd9342ae-ba60-4a77-b9ed-041d6cc8d86e.png" width="130">](https://yandex.ru/yaintern/algorithm-training) &nbsp; 
 
 -----------------
 
  
  ### React
+
+* [BattleShip Game WebSockets](https://github.com/022022/battleship-websockets/blob/main/README.md) / (React, TypeScript, Vite, WebSocket (ws), styled-components)  | [Repo](https://github.com/022022/battleship-websockets)
  
 * Custom Burgers Delivery Service Apps / [Full Description](https://github.com/022022/cosy/blob/main/README.md)  / 
 (React, TypeScript, Redux Toolkit, Framer Motion, Sanity Headless CMS REST API, React Bootstrap)
 
   + [Customer App](https://123burger.netlify.app/) Customising and Ordering | [Repo](https://github.com/022022/cosy)
 
-  + [Burger-cheif App](https://123burger-chief.netlify.app/) Complete Orders | [Repo](https://github.com/022022/burger-chief-app)
+  + [Burger-chief App](https://123burger-chief.netlify.app/) Complete Orders | [Repo](https://github.com/022022/burger-chief-app)
  
 * [Search Workout Exercises](https://awesomesportsapp.netlify.app/) /  (React CRA, TypeScript, Redux, Axios, Tailwind daisyUI, RTL) [Repo](https://github.com/022022/rapid-api-app)
 
@@ -36,6 +38,11 @@
 
  ### Node.js
 
+* [BattleShip Game WebSocket Server](https://github.com/022022/battleship-websockets/blob/main/README.md) / (Node.js, TypeScript, WebSocket (ws))  | [Repo](https://github.com/022022/battleship-websockets-server)
+
+
+* [CRUD API](https://github.com/022022/nodejs-crudAPI#readme) / (Node.js, TypeScript) | [Repo](https://github.com/022022/nodejs-crudAPI/tree/dev)
+  
 * [Node.js Console File Manager](https://github.com/022022/nodejs-file-manager) / CLI file manager (copy, move, delete, rename files, hash calculations, compress files, etc.)
 
 
